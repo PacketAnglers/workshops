@@ -1,0 +1,5 @@
+vlans:
+  10:
+    name: "Ten"
+  20:
+    name: "Twenty"
