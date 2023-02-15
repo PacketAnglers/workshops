@@ -8,4 +8,4 @@ vlans:
   - 30:
     name: Thirty
   - 40:
-    name: Fourty
+    name: Forty
